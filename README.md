@@ -34,3 +34,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - NodeJs
 - React
 - React-native 
+- SQLite
